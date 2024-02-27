@@ -14,4 +14,7 @@ https://console.mistral.ai/
 
 ![image](https://github.com/luiscoco/Mistral-AI/assets/32194879/98ff2336-14bb-4741-8a8b-5e673a246900)
 
+https://docs.mistral.ai/
+
+![image](https://github.com/luiscoco/Mistral-AI/assets/32194879/fed2ab14-d09e-4be9-9c52-260895ae62f8)
 
